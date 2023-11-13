@@ -1,0 +1,116 @@
+.ad img
+{
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .logo> span
+{
+    
+    font-size: 25px;
+}
+.container .logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.container .logo span:last-child
+{
+    color: #AA3A3A;
+}
+
+.options  a
+{
+    margin-left: 5px !important;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #AA3A3A;
+}
+.options span
+{
+
+    background: -webkit-linear-gradient(#AA3A3A, #212529);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.btn:focus,.btn:active
+{
+    outline: none !important;
+    box-shadow: none;
+}
+.btn-edit:hover
+{
+    background: none;
+    color: #212529;
+}
+
+.div-inline{
+    display:inline-block;
+}
+.btn-edit
+{
+    background: none;
+    color: #212529;
+}
+.dropdown-item
+{
+    font-size: 12px;
+}
+.dropdown-item:hover
+{
+    background: none;
+}
+.li-edit
+{
+    margin-right: 5px;
+}
+.faa-edit
+{
+    color: #AA3A3A;
+    font-size: 15px;
+    margin-right: 5px;
+}
+.form-container
+{
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.opt-iteam
+{
+    text-align: center;
+
+    position: relative;
+    height: 175px;
+    
+    
+}
+.opt-iteam-content
+{
+    
+    text-decoration: none;
+}
+
+.opt-img
+{
+    vertical-align: middle;
+    height: 60%;
+    
+}
+.opt-title
+{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #212529;
+}

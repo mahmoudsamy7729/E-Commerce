@@ -1,0 +1,275 @@
+.ad img
+{
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .logo> span
+{
+    
+    font-size: 25px;
+}
+.container .logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.container .logo span:last-child
+{
+    color: #AA3A3A;
+}
+
+hr
+{
+    color: #212529;
+}
+.options  a
+{
+    margin-left: 5px !important;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #AA3A3A;
+}
+.options span
+{
+
+    background: -webkit-linear-gradient(#AA3A3A, #212529);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.col-2 a:first-child
+{
+    color: #AA3A3A !important;
+}
+.col-2 a:last-child
+{
+    color: #212529;
+}
+
+.form-container
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-edit
+{
+    background-color: #3b5998;
+}
+
+.mid
+{
+    margin-top: 5%;
+}
+.fa-mr
+{
+    margin-right: 10px;
+}
+.logo> span
+{
+    
+    font-size: 25px;
+}
+.logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.logo span:last-child
+{
+    color: #AA3A3A;
+}
+input::-webkit-input-placeholder
+{
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+.mt
+{
+    margin-top: -3%;
+}
+.mtt
+{
+    margin-top: 3%;
+}
+.opt a p
+{
+    margin-top: 28%;
+    
+    
+}
+.opt a
+{
+    text-shadow: #212529 10px 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    width: 233px;
+    height: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: font-size 1s ease;
+    
+}
+
+.opt a:hover
+{
+    font-size: 25px;
+}
+.card
+{
+    width: 20rem;
+    transition: box-shadow 1s ease;
+}
+.card img
+{
+    width: 318px;
+    height: 265.73px;
+}
+.text-edit
+{
+    overflow: hidden ;
+    text-overflow: ellipsis ;
+    display: -webkit-box ;
+    -webkit-line-clamp: 3 ;
+    -webkit-box-orient: vertical;
+}
+.textt-edit
+{
+    color: #AA3A3A;
+    text-transform: uppercase;
+    font-size: 13px;
+    text-decoration: none;
+}
+.textt-edit a
+{
+    color: #AA3A3A;
+    text-decoration: none;
+    
+}
+
+.title-edit
+{
+    white-space: nowrap;
+    overflow: hidden;
+}
+.card:hover
+{
+    box-shadow: 0px 0px 50px black;
+}
+
+.fa-disc-edit
+{
+    color: #AA3A3A;
+    font-size: 12px;
+}
+.btn:focus,.btn:active
+{
+    outline: none !important;
+    box-shadow: none;
+}
+.btn-edit:hover
+{
+    background: none;
+    color: #212529;
+}
+
+.div-inline{
+    display:inline-block;
+}
+.btn-edit
+{
+    background: none;
+    color: #212529;
+}
+.dropdown-item
+{
+    font-size: 12px;
+}
+.dropdown-item:hover
+{
+    background: none;
+}
+.li-edit
+{
+    margin-right: 5px;
+}
+.faa-edit
+{
+    color: #AA3A3A;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+
+
+.cat-title
+{
+    font-size: 13px;
+    margin-left: -12px;
+    position: absolute;
+    width: 100%;
+}
+.cat-iteam
+{
+    
+    text-align: center;
+    text-transform: capitalize;
+    position: relative;
+}
+p.cat-title {
+    margin-top: -18px;
+    color: black;
+    font-weight: 500;
+}
+.dropdown-menu
+{
+    overflow: hidden;
+}
+input.sss
+{
+    border: none;
+    text-transform: uppercase !important;
+    width: 90%;
+    color: black;
+}
+input:focus
+{
+    outline: none;
+}
+.back-font-edit
+{
+    background-color: #212529;
+    border-radius: 0%;
+    color: white;
+}
+.back-font-edit:hover
+{
+    color: white;
+}
+
+
+
+
+input::-webkit-input-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+  }
+  
+input:-ms-input-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+  }
+  
+input:-moz-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+  }
+  
+input::-moz-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+  }

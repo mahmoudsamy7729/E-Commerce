@@ -1,0 +1,82 @@
+.navbar
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ml-auto
+{
+    margin-left: auto !important;
+}
+
+.navbar-brand > span
+{
+    font-size: 25px;
+}
+.navbar-brand span:first-child
+{
+    font-weight: bold;
+    color: #F4F4F4 !important;
+}
+.navbar-brand span:last-child
+{
+    color: #AA3A3A;
+}
+.navbar-nav .nav-link
+{
+    font-weight: 400;
+    color: #F4F4F4 !important ;
+    font-size: 19px;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+.navbar-nav .active > .nav-link
+{
+    color: #AA3A3A !important ;
+}
+
+.error
+{
+    font-size: 15px;
+    color: #AA3A3A;
+}
+
+.footer
+{
+    color: #F4F4F4;
+    box-shadow: 20px 4px 8px 20px rgba(0, 0, 0, 0.2), 20px 6px 20px 20px rgba(0, 0, 0, 0.19);
+}
+.footer-logo
+{
+    font-size: 50px;
+}
+.footer-logo span:first-child
+{
+    font-weight: bold;
+    color: #fcfcfc;
+}
+.footer-logo span:last-child
+{
+    color: #AA3A3A;
+}
+.footer-a
+{
+    color: #F4F4F4;
+    text-decoration: none;
+}
+.footer-a:hover
+{
+    color: #F4F4F4;
+}
+.main-opt
+{
+    color: #AA3A3A;
+    
+}
+.h6-change
+{
+    font-size: 22px;
+}
+.text-up
+{
+    text-transform: uppercase;
+}
+

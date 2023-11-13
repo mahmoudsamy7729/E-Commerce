@@ -1,0 +1,124 @@
+*
+{
+    text-transform: uppercase;
+}
+body
+{
+    overflow-x: hidden;
+}
+input
+{
+    text-transform: none !important;
+}
+
+.logo> span
+{
+    
+    font-size: 25px;
+}
+.logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.logo span:last-child
+{
+    color: #AA3A3A;
+}
+.form-container
+{
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mtt
+{
+    margin-top: 3%;
+}
+.inline
+{
+    display: inline;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+ margin: 0;
+}
+
+
+input[type=number] {
+-moz-appearance: textfield;
+}
+
+
+*
+{
+    text-transform: uppercase;
+}
+input
+{
+    text-transform: none !important;
+}
+.mt
+{
+    margin-top: 20%;
+}
+
+.opt
+{
+    font-size: 13px;
+    overflow: hidden;
+}
+.opt img
+{
+    margin-left: 15px;
+}
+
+
+
+.co-edit img
+{
+    margin-left: 8px;
+}
+.co-edit p
+{
+    margin-left: 18px;
+}
+
+.cat-iteam
+{
+    text-align: center;
+    text-transform: capitalize;
+    position: relative;
+}
+
+
+.cat-img
+{
+    vertical-align: middle;
+    width: 40%;
+}
+.cat-title
+{
+    font-size: 13px;
+    margin-left: -8px;
+    position: absolute;
+    width: 100%;
+}
+.li-edit
+{
+    display: inline;
+    margin-bottom: 5%;
+}
+.margin-left
+{
+    margin-left: 8%;
+    margin-bottom: -6%;
+}
+
+a.sub_edit
+{
+    text-decoration: none;
+    color: #212529;
+    
+}

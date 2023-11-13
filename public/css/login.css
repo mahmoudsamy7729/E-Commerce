@@ -1,0 +1,54 @@
+*
+{
+    text-transform: uppercase;
+}
+input
+{
+    text-transform: none !important;
+}
+.form-container
+{
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.face-edit
+{
+    background-color: #3b5998;
+}
+
+.mid
+{
+    margin-top: 5%;
+}
+.fa-mr
+{
+    margin-right: 10px;
+}
+
+.logo> span
+{
+    
+    font-size: 25px;
+}
+.logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.logo span:last-child
+{
+    color: #AA3A3A;
+}
+.img-login 
+{
+    margin-top: -1%;
+    display: inline-block ;
+    width: 10%;
+}
+
+.btn.btn-primary
+{
+    outline: none;
+    border: none;
+}

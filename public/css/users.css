@@ -1,0 +1,151 @@
+
+
+.ad img
+{
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .logo> span
+{
+    
+    font-size: 25px;
+}
+.container .logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.container .logo span:last-child
+{
+    color: #AA3A3A;
+}
+
+.options  a
+{
+    margin-left: 5px !important;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #AA3A3A;
+}
+.options span
+{
+
+    background: -webkit-linear-gradient(#AA3A3A, #212529);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.btn:focus,.btn:active
+{
+    outline: none !important;
+    box-shadow: none;
+}
+.btn-edit:hover
+{
+    background: none;
+    color: #212529;
+}
+
+.div-inline{
+    display:inline-block;
+}
+.btn-edit
+{
+    background: none;
+    color: #212529;
+}
+.dropdown-item
+{
+    font-size: 12px;
+}
+.dropdown-item:hover
+{
+    background: none;
+}
+.li-edit
+{
+    margin-right: 5px;
+}
+.faa-edit
+{
+    color: #AA3A3A;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.bg-edit:nth-child( even ) 
+{
+    background-color: #212529;
+    color: #F4F4F2;
+}
+.bg-edit:nth-child( odd ) 
+{
+    background-color: #F4F4F2;
+    color: #212529;
+}
+.del-a
+{
+    color: #AA3A3A;
+    text-decoration: none;
+}
+.del-a:hover
+{
+    color: #AA3A3A;
+}
+
+.back-font-edit
+{
+    background-color: #212529;
+    border-radius: 0%;
+    color: white;
+    text-transform: uppercase;
+}
+.back-font-edit:hover
+{
+    color: white;
+}
+
+
+.logo> span
+{
+    
+    font-size: 25px;
+}
+.logo span:first-child
+{
+    font-weight: bold;
+    color: #212529;
+}
+.logo span:last-child
+{
+    color: #AA3A3A;
+}
+
+.li-edit
+{
+    list-style-type: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.border-end {
+    border-right: 1px solid #AA3A3A!important;
+}
+.margin-edit
+{
+    margin-bottom: -5%;
+}
+.border-end h6
+{
+    font-size: 0.7rem;
+}
